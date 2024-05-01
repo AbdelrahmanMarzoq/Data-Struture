@@ -1,6 +1,10 @@
 #ifndef STACK_H
 #define STACK_H
 
+#ifndef NULL
+#define NULL 0
+#endif
+
 typedef int Entry; //userDefine
 typedef char boolean;
 
