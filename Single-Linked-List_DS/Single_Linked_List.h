@@ -1,7 +1,9 @@
 #ifndef SINGLE_LINKED_LIST_H
 #define SINGLE_LINKED_LIST_H
 
-#include <stdlib.h>
+#ifndef NULL
+#define NULL 0
+#endif
 
 typedef int Entry; //Userdefined
 
