@@ -3,11 +3,11 @@ This implementation (Stack - Queue - Single Linked List)
 
 ## ***1-Stack***
 
-Function 
-1- init()
-2- push()
-3- pop()
-4- top()
-5- Empty()
-6- print()
-7- Size()
+Function   <br>
+1- init()  <br>
+2- push()  <br>
+3- pop()   <br>
+4- top()   <br>
+5- Empty() <br>
+6- print() <br>
+7- Size()  <br>
