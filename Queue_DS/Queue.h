@@ -1,7 +1,7 @@
 #ifndef QUEUE_H
 #define QUEUE_H
 
-#ifdef NULL
+#ifndef NULL
 #define NULL 0
 #endif
 
