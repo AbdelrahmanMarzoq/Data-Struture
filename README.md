@@ -2,7 +2,7 @@
 This implementation (Stack - Queue - Single Linked List)
 
 ## ***1- Stack***
-########Functions   <br>
+Functions   <br> <span style="color: green"> Functions text </span>
 1- init()   <br>
 2- push()   <br>
 3- pop()    <br>
@@ -12,7 +12,7 @@ This implementation (Stack - Queue - Single Linked List)
 7- Size()   <br>
 ## ***2- Queue***
 
-######Functions   <br>
+Functions   <br>
 1- init()   <br>
 2- Empty()  <br>
 3- push     <br>
