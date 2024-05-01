@@ -12,7 +12,7 @@ This implementation (Stack - Queue - Single Linked List)
 7- Size()   <br>
 ## ***2- Queue***
 
-########Functions   <br>
+######Functions   <br>
 1- init()   <br>
 2- Empty()  <br>
 3- push     <br>
