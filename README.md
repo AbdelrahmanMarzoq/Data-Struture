@@ -39,6 +39,27 @@ Functions        <br>
 13- get()        <br>
 14- print()      <br>
 
+## ***4- Double Linked List***
+Functions        <br>
+1- init()        <br>
+2- push_front()  <br>
+3- push_back()   <br>
+4- pop_back()    <br>
+5- pop_front()   <br>
+6- empty()       <br>
+7- back()        <br>
+8- front()       <br>
+9- insert()      <br>
+10- erase()      <br>
+11- Delete()     <br>
+12- size()       <br>
+13- get()        <br>
+14- print_forward <br>
+15- print_reverse <br>
+
+
+
+
 
 
 
