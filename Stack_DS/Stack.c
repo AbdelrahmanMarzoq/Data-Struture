@@ -1,5 +1,4 @@
 #include "Stack.h"
-#define NULL 0
 
 
 
