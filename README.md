@@ -1,5 +1,5 @@
 # Data-Struture
-This implementation (Stack - Queue - Single Linked List)
+**This implementation (Stack - Queue - Single Linked List)**
 
 ## ***1- Stack***
 Functions   <br>
