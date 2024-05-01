@@ -2,8 +2,8 @@
 This implementation (Stack - Queue - Single Linked List)
 
 ## ***1-Stack***
-
-Function   <br>
+	`#0969DA`
+Functions   <br>
 1- init()  <br>
 2- push()  <br>
 3- pop()   <br>
